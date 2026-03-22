@@ -5,7 +5,7 @@
     "artist": "Luna",
     "gameName": "サクラノ詩_ 10th Anniversary",
     "type": "ED",
-    "audioFile": "Song mp3/001.mp3"
+    "audioFile": "001.mp3"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "artist": "WHITE-LIPS",
     "gameName": "きっと、澄みわたる朝色よりも",
     "type": "OP",
-    "audioFile": "Song mp3/002.mp3"
+    "audioFile": "002.mp3"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "artist": "鈴湯 from Airots",
     "gameName": "千の刃濤、桃花染の皇姫 -花あかり-",
     "type": "ED",
-    "audioFile": "Song mp3/003.mp3"
+    "audioFile": "003.mp3"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "artist": "yozuca*",
     "gameName": "D.C.Ⅱ・To.You",
     "type": "OP",
-    "audioFile": "Song mp3/004.mp3"
+    "audioFile": "004.mp3"
   }
   ,{
     "id": 5,
@@ -37,7 +37,7 @@
     "artist": "中山♡マミ",
     "gameName": "恋色空模様",
     "type": "OP",
-    "audioFile": "Song mp3/005.mp3"
+    "audioFile": "005.mp3"
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "artist": "fripSide",
     "gameName": "マジカライド",
     "type": "OP",
-    "audioFile": "Song mp3/006.mp3"
+    "audioFile": "006.mp3"
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "artist": "真理絵",
     "gameName": "Triptych",
     "type": "OP",
-    "audioFile": "Song mp3/007.mp3"
+    "audioFile": "007.mp3"
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@
     "artist": "Kicco",
     "gameName": "タユタマ2 -you're the only one-",
     "type": "OP",
-    "audioFile": "Song mp3/008.mp3"
+    "audioFile": "008.mp3"
   },
   {
     "id": 9,
@@ -69,7 +69,7 @@
     "artist": "東山奈央",
     "gameName": "PARQUET",
     "type": "ED",
-    "audioFile": "Song mp3/009.mp3"
+    "audioFile": "009.mp3"
   },
   {
     "id": 10,
@@ -77,6 +77,6 @@
     "artist": "AKKO",
     "gameName": "ToHeart2 (XRATED)",
     "type": "ED",
-    "audioFile": "Song mp3/010.mp3"
+    "audioFile": "010.mp3"
   }
 ]
