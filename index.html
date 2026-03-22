@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>猜歌遊戲</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <h1>猜歌遊戲</h1>
+  <p class="subtitle">聽片段，猜是哪部遊戲的音樂</p>
+
+  <div id="game-container">
+
+    <!-- 分數列 -->
+    <div id="score-bar">
+      答對 <span id="score-correct">0</span> / <span id="score-total">0</span> 題
+    </div>
+
+    <!-- 嘗試次數 -->
+    <div id="attempts"></div>
+
+    <!-- 播放區 -->
+    <div id="player-section">
+      <button id="play-btn">&#9654; 播放</button>
+      <div id="duration-label"></div>
+    </div>
+
+    <!-- 猜測紀錄 -->
+    <ul id="guess-list"></ul>
+
+    <!-- 選擇題區 -->
+    <div id="input-section">
+      <p id="choices-label">這是出至哪款遊戲</p>
+      <div id="choices"></div>
+      <button id="skip-btn">跳過</button>
+    </div>
+
+    <!-- 結果畫面 -->
+    <div id="result-screen">
+      <div id="result-icon"></div>
+      <div id="result-title"></div>
+      <div id="result-artist"></div>
+      <div id="result-game"></div>
+      <button id="next-btn">下一題</button>
+    </div>
+
+    <!-- 最終結果畫面 -->
+    <div id="final-screen">
+      <div id="final-icon"></div>
+      <div id="final-score"></div>
+      <button id="restart-btn">再玩一次</button>
+    </div>
+
+  </div>
+
+  <script src="game.js"></script>
+</body>
+</html>
