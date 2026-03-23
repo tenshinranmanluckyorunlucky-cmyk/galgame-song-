@@ -3,7 +3,7 @@
     "id": 1,
     "title": "夢見る花火",
     "artist": "Luna",
-    "gameName": "サクラノ詩_ 10th Anniversary",
+    "gameName": "サクラノ詩",
     "type": "ED",
     "audioFile": "001.mp3"
   },
@@ -78,5 +78,69 @@
     "gameName": "ToHeart2 (XRATED)",
     "type": "ED",
     "audioFile": "010.mp3"
+  },
+  {
+    "id": 11,
+    "title": "ZYPRESSENの花束",
+    "artist": "Luna",
+    "gameName": "サクラノ詩",
+    "type": "ED",
+    "audioFile": "011.mp3"
+  },
+  {
+    "id": 12,
+    "title": "刻ト詩",
+    "artist": "Luna",
+    "gameName": "サクラノ刻",
+    "type": "OP",
+    "audioFile": "012.mp3"
+  },
+  {
+    "id": 13,
+    "title": "虚無の先で愛を見つける",
+    "artist": "はな",
+    "gameName": "サクラノ刻",
+    "type": "ED",
+    "audioFile": "013.mp3"
+  },
+  {
+    "id": 14,
+    "title": "Hesitationsnow",
+    "artist": "fripSide",
+    "gameName": "はつゆきさくら",
+    "type": "OP",
+    "audioFile": "014.mp3"
+  },
+  {
+    "id": 15,
+    "title": "みずいろ",
+    "artist": "佐藤裕美",
+    "gameName": "みずいろ",
+    "type": "OP",
+    "audioFile": "015.mp3"
+  },
+  {
+    "id": 16,
+    "title": "Brand New Voice",
+    "artist": "花たん",
+    "gameName": "すきま桜とうその都会",
+    "type": "ED",
+    "audioFile": "016.mp3"
+  },
+  {
+    "id": 17,
+    "title": "二つめの空",
+    "artist": "Rita",
+    "gameName": "Aster",
+    "type": "OP",
+    "audioFile": "017.mp3"
+  },
+  {
+    "id": 18,
+    "title": "悠久の翼",
+    "artist": "原田ひとみ",
+    "gameName": "ef - the first tale",
+    "type": "OP",
+    "audioFile": "018.mp3"
   }
 ]
